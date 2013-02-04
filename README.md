@@ -12,9 +12,8 @@ Run the unit tests by opening the files in the *tests/* folder
 and read the source code and comments to get familiar with the
 implementation in the *code/* folder.
 
-You can then customize the implementation, for example replacing
-the mouse cursor and other graphics displayed during replay with
-your own graphics.
+You can then customize the implementation, for example adding
+your own function to retrieve recorded data from your server.
 
 AUTHOR
 ------
