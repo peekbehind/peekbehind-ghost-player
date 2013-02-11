@@ -7,3 +7,6 @@
 [submodule "tests/underscore"]
 	path = tests/underscore
 	url = git://github.com/documentcloud/underscore.git
+[submodule "tests/json"]
+	path = tests/json
+	url = git://github.com/douglascrockford/JSON-js.git
